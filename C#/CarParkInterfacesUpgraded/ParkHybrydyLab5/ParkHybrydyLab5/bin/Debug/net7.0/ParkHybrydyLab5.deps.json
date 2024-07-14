@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ParkHybrydyLab5/1.0.0": {
+        "runtime": {
+          "ParkHybrydyLab5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ParkHybrydyLab5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

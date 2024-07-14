@@ -1,0 +1,16 @@
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\conwertercsv\conwertercsv\bin\Debug\net7.0-windows\conwertercsv.exe
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\conwertercsv\conwertercsv\bin\Debug\net7.0-windows\conwertercsv.deps.json
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\conwertercsv\conwertercsv\bin\Debug\net7.0-windows\conwertercsv.runtimeconfig.json
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\conwertercsv\conwertercsv\bin\Debug\net7.0-windows\conwertercsv.dll
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\conwertercsv\conwertercsv\bin\Debug\net7.0-windows\conwertercsv.pdb
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\conwertercsv\conwertercsv\obj\Debug\net7.0-windows\CsvToHtmlConverterForm.resources
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\conwertercsv\conwertercsv\obj\Debug\net7.0-windows\conwertercsv.csproj.GenerateResource.cache
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\conwertercsv\conwertercsv\obj\Debug\net7.0-windows\conwertercsv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\conwertercsv\conwertercsv\obj\Debug\net7.0-windows\conwertercsv.AssemblyInfoInputs.cache
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\conwertercsv\conwertercsv\obj\Debug\net7.0-windows\conwertercsv.AssemblyInfo.cs
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\conwertercsv\conwertercsv\obj\Debug\net7.0-windows\conwertercsv.csproj.CoreCompileInputs.cache
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\conwertercsv\conwertercsv\obj\Debug\net7.0-windows\conwertercsv.dll
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\conwertercsv\conwertercsv\obj\Debug\net7.0-windows\refint\conwertercsv.dll
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\conwertercsv\conwertercsv\obj\Debug\net7.0-windows\conwertercsv.pdb
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\conwertercsv\conwertercsv\obj\Debug\net7.0-windows\conwertercsv.genruntimeconfig.cache
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\conwertercsv\conwertercsv\obj\Debug\net7.0-windows\ref\conwertercsv.dll

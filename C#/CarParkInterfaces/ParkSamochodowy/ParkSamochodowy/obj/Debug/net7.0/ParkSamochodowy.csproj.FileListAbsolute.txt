@@ -1,0 +1,14 @@
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\ParkSamochodowy\ParkSamochodowy\bin\Debug\net7.0\ParkSamochodowy.exe
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\ParkSamochodowy\ParkSamochodowy\bin\Debug\net7.0\ParkSamochodowy.deps.json
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\ParkSamochodowy\ParkSamochodowy\bin\Debug\net7.0\ParkSamochodowy.runtimeconfig.json
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\ParkSamochodowy\ParkSamochodowy\bin\Debug\net7.0\ParkSamochodowy.dll
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\ParkSamochodowy\ParkSamochodowy\bin\Debug\net7.0\ParkSamochodowy.pdb
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\ParkSamochodowy\ParkSamochodowy\obj\Debug\net7.0\ParkSamochodowy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\ParkSamochodowy\ParkSamochodowy\obj\Debug\net7.0\ParkSamochodowy.AssemblyInfoInputs.cache
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\ParkSamochodowy\ParkSamochodowy\obj\Debug\net7.0\ParkSamochodowy.AssemblyInfo.cs
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\ParkSamochodowy\ParkSamochodowy\obj\Debug\net7.0\ParkSamochodowy.csproj.CoreCompileInputs.cache
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\ParkSamochodowy\ParkSamochodowy\obj\Debug\net7.0\ParkSamochodowy.dll
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\ParkSamochodowy\ParkSamochodowy\obj\Debug\net7.0\refint\ParkSamochodowy.dll
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\ParkSamochodowy\ParkSamochodowy\obj\Debug\net7.0\ParkSamochodowy.pdb
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\ParkSamochodowy\ParkSamochodowy\obj\Debug\net7.0\ParkSamochodowy.genruntimeconfig.cache
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\ParkSamochodowy\ParkSamochodowy\obj\Debug\net7.0\ref\ParkSamochodowy.dll

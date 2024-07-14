@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "xR7s26+Ou3xFOu/nltHZAuS9IU32kklWNlai/hpZXuIrHsQoEvPpcpPYOt/73iZNqI7YpYopjrgwEHPcb9Pf1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\igorb\\Desktop\\reposyvisualstudio-20240708T105708Z-001\\reposyvisualstudio\\conwertercsv\\conwertercsv\\conwertercsv.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\igorb\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\igorb\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\igorb\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\igorb\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.16\\microsoft.netcore.app.host.win-x64.7.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

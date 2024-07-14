@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\igorb\\Desktop\\InvoiceManager\\InvoiceManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74B44CD8-FB00-45BE-91FD-03D6B4662B32}|InvoiceManager\\InvoiceManager.csproj|C:\\Users\\igorb\\Desktop\\InvoiceManager\\InvoiceManager\\invoicemanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{74B44CD8-FB00-45BE-91FD-03D6B4662B32}|InvoiceManager\\InvoiceManager.csproj|solutionrelative:invoicemanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B44CD8-FB00-45BE-91FD-03D6B4662B32}|InvoiceManager\\InvoiceManager.csproj|C:\\Users\\igorb\\Desktop\\InvoiceManager\\InvoiceManager\\invoicemanager\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B44CD8-FB00-45BE-91FD-03D6B4662B32}|InvoiceManager\\InvoiceManager.csproj|solutionrelative:invoicemanager\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B44CD8-FB00-45BE-91FD-03D6B4662B32}|InvoiceManager\\InvoiceManager.csproj|C:\\Users\\igorb\\Desktop\\InvoiceManager\\InvoiceManager\\invoicemanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{74B44CD8-FB00-45BE-91FD-03D6B4662B32}|InvoiceManager\\InvoiceManager.csproj|solutionrelative:invoicemanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B44CD8-FB00-45BE-91FD-03D6B4662B32}|InvoiceManager\\InvoiceManager.csproj|C:\\Users\\igorb\\Desktop\\InvoiceManager\\InvoiceManager\\invoicemanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B44CD8-FB00-45BE-91FD-03D6B4662B32}|InvoiceManager\\InvoiceManager.csproj|solutionrelative:invoicemanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B44CD8-FB00-45BE-91FD-03D6B4662B32}|InvoiceManager\\InvoiceManager.csproj|C:\\Users\\igorb\\Desktop\\InvoiceManager\\InvoiceManager\\invoicemanager\\models\\baza1context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B44CD8-FB00-45BE-91FD-03D6B4662B32}|InvoiceManager\\InvoiceManager.csproj|solutionrelative:invoicemanager\\models\\baza1context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B44CD8-FB00-45BE-91FD-03D6B4662B32}|InvoiceManager\\InvoiceManager.csproj|c:\\users\\igorb\\desktop\\invoicemanager\\invoicemanager\\invoicemanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B44CD8-FB00-45BE-91FD-03D6B4662B32}|InvoiceManager\\InvoiceManager.csproj|solutionrelative:invoicemanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:445537940:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\igorb\\Desktop\\InvoiceManager\\InvoiceManager\\InvoiceManager\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "InvoiceManager\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\igorb\\Desktop\\InvoiceManager\\InvoiceManager\\InvoiceManager\\Form1.Designer.cs",
+              "RelativeToolTip": "InvoiceManager\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAOUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T11:22:40.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\igorb\\Desktop\\InvoiceManager\\InvoiceManager\\InvoiceManager\\Form1.cs",
+              "RelativeDocumentMoniker": "InvoiceManager\\Form1.cs",
+              "ToolTip": "C:\\Users\\igorb\\Desktop\\InvoiceManager\\InvoiceManager\\InvoiceManager\\Form1.cs",
+              "RelativeToolTip": "InvoiceManager\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAANMAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T11:22:40.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Baza1Context.cs",
+              "DocumentMoniker": "C:\\Users\\igorb\\Desktop\\InvoiceManager\\InvoiceManager\\InvoiceManager\\Models\\Baza1Context.cs",
+              "RelativeDocumentMoniker": "InvoiceManager\\Models\\Baza1Context.cs",
+              "ToolTip": "C:\\Users\\igorb\\Desktop\\InvoiceManager\\InvoiceManager\\InvoiceManager\\Models\\Baza1Context.cs",
+              "RelativeToolTip": "InvoiceManager\\Models\\Baza1Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T11:22:40.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\igorb\\Desktop\\InvoiceManager\\InvoiceManager\\InvoiceManager\\Program.cs",
+              "RelativeDocumentMoniker": "InvoiceManager\\Program.cs",
+              "ToolTip": "C:\\Users\\igorb\\Desktop\\InvoiceManager\\InvoiceManager\\InvoiceManager\\Program.cs",
+              "RelativeToolTip": "InvoiceManager\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T11:22:40.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\igorb\\Desktop\\InvoiceManager\\InvoiceManager\\InvoiceManager\\appsettings.json",
+              "RelativeDocumentMoniker": "InvoiceManager\\appsettings.json",
+              "ToolTip": "C:\\Users\\igorb\\Desktop\\InvoiceManager\\InvoiceManager\\InvoiceManager\\appsettings.json",
+              "RelativeToolTip": "InvoiceManager\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-22T11:22:40.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\igorb\\Desktop\\InvoiceManager\\InvoiceManager\\InvoiceManager\\Form1.cs",
+              "RelativeDocumentMoniker": "InvoiceManager\\Form1.cs",
+              "ToolTip": "C:\\Users\\igorb\\Desktop\\InvoiceManager\\InvoiceManager\\InvoiceManager\\Form1.cs [Design]",
+              "RelativeToolTip": "InvoiceManager\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T11:22:40.418Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

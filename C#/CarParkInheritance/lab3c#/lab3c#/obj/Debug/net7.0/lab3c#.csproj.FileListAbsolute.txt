@@ -1,0 +1,14 @@
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\lab3c#\lab3c#\bin\Debug\net7.0\lab3c#.exe
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\lab3c#\lab3c#\bin\Debug\net7.0\lab3c#.deps.json
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\lab3c#\lab3c#\bin\Debug\net7.0\lab3c#.runtimeconfig.json
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\lab3c#\lab3c#\bin\Debug\net7.0\lab3c#.dll
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\lab3c#\lab3c#\bin\Debug\net7.0\lab3c#.pdb
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\lab3c#\lab3c#\obj\Debug\net7.0\lab3c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\lab3c#\lab3c#\obj\Debug\net7.0\lab3c#.AssemblyInfoInputs.cache
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\lab3c#\lab3c#\obj\Debug\net7.0\lab3c#.AssemblyInfo.cs
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\lab3c#\lab3c#\obj\Debug\net7.0\lab3c#.csproj.CoreCompileInputs.cache
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\lab3c#\lab3c#\obj\Debug\net7.0\lab3c#.dll
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\lab3c#\lab3c#\obj\Debug\net7.0\refint\lab3c#.dll
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\lab3c#\lab3c#\obj\Debug\net7.0\lab3c#.pdb
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\lab3c#\lab3c#\obj\Debug\net7.0\lab3c#.genruntimeconfig.cache
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\lab3c#\lab3c#\obj\Debug\net7.0\ref\lab3c#.dll

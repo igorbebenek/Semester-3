@@ -1,0 +1,16 @@
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\macierze\macierze\bin\Debug\net7.0-windows\macierze.exe
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\macierze\macierze\bin\Debug\net7.0-windows\macierze.deps.json
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\macierze\macierze\bin\Debug\net7.0-windows\macierze.runtimeconfig.json
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\macierze\macierze\bin\Debug\net7.0-windows\macierze.dll
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\macierze\macierze\bin\Debug\net7.0-windows\macierze.pdb
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\macierze\macierze\obj\Debug\net7.0-windows\macierze.Form1.resources
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\macierze\macierze\obj\Debug\net7.0-windows\macierze.csproj.GenerateResource.cache
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\macierze\macierze\obj\Debug\net7.0-windows\macierze.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\macierze\macierze\obj\Debug\net7.0-windows\macierze.AssemblyInfoInputs.cache
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\macierze\macierze\obj\Debug\net7.0-windows\macierze.AssemblyInfo.cs
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\macierze\macierze\obj\Debug\net7.0-windows\macierze.csproj.CoreCompileInputs.cache
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\macierze\macierze\obj\Debug\net7.0-windows\macierze.dll
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\macierze\macierze\obj\Debug\net7.0-windows\refint\macierze.dll
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\macierze\macierze\obj\Debug\net7.0-windows\macierze.pdb
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\macierze\macierze\obj\Debug\net7.0-windows\macierze.genruntimeconfig.cache
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\macierze\macierze\obj\Debug\net7.0-windows\ref\macierze.dll

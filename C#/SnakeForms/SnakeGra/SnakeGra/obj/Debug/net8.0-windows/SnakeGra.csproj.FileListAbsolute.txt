@@ -1,0 +1,16 @@
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\SnakeGra\SnakeGra\bin\Debug\net8.0-windows\SnakeGra.exe
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\SnakeGra\SnakeGra\bin\Debug\net8.0-windows\SnakeGra.deps.json
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\SnakeGra\SnakeGra\bin\Debug\net8.0-windows\SnakeGra.runtimeconfig.json
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\SnakeGra\SnakeGra\bin\Debug\net8.0-windows\SnakeGra.dll
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\SnakeGra\SnakeGra\bin\Debug\net8.0-windows\SnakeGra.pdb
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\SnakeGra\SnakeGra\obj\Debug\net8.0-windows\SnakeGra.Form1.resources
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\SnakeGra\SnakeGra\obj\Debug\net8.0-windows\SnakeGra.csproj.GenerateResource.cache
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\SnakeGra\SnakeGra\obj\Debug\net8.0-windows\SnakeGra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\SnakeGra\SnakeGra\obj\Debug\net8.0-windows\SnakeGra.AssemblyInfoInputs.cache
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\SnakeGra\SnakeGra\obj\Debug\net8.0-windows\SnakeGra.AssemblyInfo.cs
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\SnakeGra\SnakeGra\obj\Debug\net8.0-windows\SnakeGra.csproj.CoreCompileInputs.cache
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\SnakeGra\SnakeGra\obj\Debug\net8.0-windows\SnakeGra.dll
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\SnakeGra\SnakeGra\obj\Debug\net8.0-windows\refint\SnakeGra.dll
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\SnakeGra\SnakeGra\obj\Debug\net8.0-windows\SnakeGra.pdb
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\SnakeGra\SnakeGra\obj\Debug\net8.0-windows\SnakeGra.genruntimeconfig.cache
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\SnakeGra\SnakeGra\obj\Debug\net8.0-windows\ref\SnakeGra.dll

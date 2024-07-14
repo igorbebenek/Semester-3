@@ -1,0 +1,16 @@
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\daneosobowe\daneosobowe\bin\Debug\net7.0-windows\daneosobowe.exe
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\daneosobowe\daneosobowe\bin\Debug\net7.0-windows\daneosobowe.deps.json
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\daneosobowe\daneosobowe\bin\Debug\net7.0-windows\daneosobowe.runtimeconfig.json
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\daneosobowe\daneosobowe\bin\Debug\net7.0-windows\daneosobowe.dll
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\daneosobowe\daneosobowe\bin\Debug\net7.0-windows\daneosobowe.pdb
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\daneosobowe\daneosobowe\obj\Debug\net7.0-windows\daneosobowe.Form1.resources
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\daneosobowe\daneosobowe\obj\Debug\net7.0-windows\daneosobowe.csproj.GenerateResource.cache
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\daneosobowe\daneosobowe\obj\Debug\net7.0-windows\daneosobowe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\daneosobowe\daneosobowe\obj\Debug\net7.0-windows\daneosobowe.AssemblyInfoInputs.cache
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\daneosobowe\daneosobowe\obj\Debug\net7.0-windows\daneosobowe.AssemblyInfo.cs
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\daneosobowe\daneosobowe\obj\Debug\net7.0-windows\daneosobowe.csproj.CoreCompileInputs.cache
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\daneosobowe\daneosobowe\obj\Debug\net7.0-windows\daneosobowe.dll
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\daneosobowe\daneosobowe\obj\Debug\net7.0-windows\refint\daneosobowe.dll
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\daneosobowe\daneosobowe\obj\Debug\net7.0-windows\daneosobowe.pdb
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\daneosobowe\daneosobowe\obj\Debug\net7.0-windows\daneosobowe.genruntimeconfig.cache
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\daneosobowe\daneosobowe\obj\Debug\net7.0-windows\ref\daneosobowe.dll

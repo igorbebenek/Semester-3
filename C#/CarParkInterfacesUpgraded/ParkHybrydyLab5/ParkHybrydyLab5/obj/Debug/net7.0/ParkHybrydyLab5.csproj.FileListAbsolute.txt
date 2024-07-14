@@ -1,0 +1,14 @@
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\ParkHybrydyLab5\ParkHybrydyLab5\bin\Debug\net7.0\ParkHybrydyLab5.exe
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\ParkHybrydyLab5\ParkHybrydyLab5\bin\Debug\net7.0\ParkHybrydyLab5.deps.json
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\ParkHybrydyLab5\ParkHybrydyLab5\bin\Debug\net7.0\ParkHybrydyLab5.runtimeconfig.json
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\ParkHybrydyLab5\ParkHybrydyLab5\bin\Debug\net7.0\ParkHybrydyLab5.dll
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\ParkHybrydyLab5\ParkHybrydyLab5\bin\Debug\net7.0\ParkHybrydyLab5.pdb
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\ParkHybrydyLab5\ParkHybrydyLab5\obj\Debug\net7.0\ParkHybrydyLab5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\ParkHybrydyLab5\ParkHybrydyLab5\obj\Debug\net7.0\ParkHybrydyLab5.AssemblyInfoInputs.cache
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\ParkHybrydyLab5\ParkHybrydyLab5\obj\Debug\net7.0\ParkHybrydyLab5.AssemblyInfo.cs
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\ParkHybrydyLab5\ParkHybrydyLab5\obj\Debug\net7.0\ParkHybrydyLab5.csproj.CoreCompileInputs.cache
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\ParkHybrydyLab5\ParkHybrydyLab5\obj\Debug\net7.0\ParkHybrydyLab5.dll
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\ParkHybrydyLab5\ParkHybrydyLab5\obj\Debug\net7.0\refint\ParkHybrydyLab5.dll
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\ParkHybrydyLab5\ParkHybrydyLab5\obj\Debug\net7.0\ParkHybrydyLab5.pdb
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\ParkHybrydyLab5\ParkHybrydyLab5\obj\Debug\net7.0\ParkHybrydyLab5.genruntimeconfig.cache
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\ParkHybrydyLab5\ParkHybrydyLab5\obj\Debug\net7.0\ref\ParkHybrydyLab5.dll

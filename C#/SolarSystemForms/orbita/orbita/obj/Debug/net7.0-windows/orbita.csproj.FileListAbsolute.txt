@@ -1,0 +1,17 @@
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\orbita\orbita\bin\Debug\net7.0-windows\orbita.exe
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\orbita\orbita\bin\Debug\net7.0-windows\orbita.deps.json
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\orbita\orbita\bin\Debug\net7.0-windows\orbita.runtimeconfig.json
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\orbita\orbita\bin\Debug\net7.0-windows\orbita.dll
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\orbita\orbita\bin\Debug\net7.0-windows\orbita.pdb
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\orbita\orbita\obj\Debug\net7.0-windows\orbita.Form1.resources
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\orbita\orbita\obj\Debug\net7.0-windows\orbita.Properties.Resources.resources
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\orbita\orbita\obj\Debug\net7.0-windows\orbita.csproj.GenerateResource.cache
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\orbita\orbita\obj\Debug\net7.0-windows\orbita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\orbita\orbita\obj\Debug\net7.0-windows\orbita.AssemblyInfoInputs.cache
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\orbita\orbita\obj\Debug\net7.0-windows\orbita.AssemblyInfo.cs
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\orbita\orbita\obj\Debug\net7.0-windows\orbita.csproj.CoreCompileInputs.cache
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\orbita\orbita\obj\Debug\net7.0-windows\orbita.dll
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\orbita\orbita\obj\Debug\net7.0-windows\refint\orbita.dll
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\orbita\orbita\obj\Debug\net7.0-windows\orbita.pdb
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\orbita\orbita\obj\Debug\net7.0-windows\orbita.genruntimeconfig.cache
+C:\Users\igorb\Desktop\reposyvisualstudio-20240708T105708Z-001\reposyvisualstudio\orbita\orbita\obj\Debug\net7.0-windows\ref\orbita.dll
